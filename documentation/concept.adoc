@@ -1,0 +1,12 @@
+
+= Requirements
+
+== Authentication
+
+== Pomodoro
+* configurable duration for work and break interval
+** defaults to 25 and 5 min
+* push notification when timer ends
+* Optional: Task List
+
+== Task Timer
